@@ -1,0 +1,2 @@
+# Diffusion_model_demo
+Diffusion Model模型实现的demo，台大李宏毅老师2023年讲解的Diffusion Model原理的视频demo实现
